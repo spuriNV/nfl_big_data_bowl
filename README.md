@@ -24,18 +24,18 @@ This project implements a novel spatial-temporal framework for analyzing player 
 
 ### Visualizations
 
-The project includes 10 high-quality visualizations (media_*.png files):
+The project includes 10 high-quality visualizations in the `visualizations/` folder:
 
-1. **media_woo_timeseries.png** - WOO evolution over time for example plays
-2. **media_woo_distribution.png** - Distribution of WOO Peak values across all plays
-3. **media_woo_by_outcome.png** - WOO metrics grouped by pass outcome (Completion/Incomplete/Interception)
-4. **media_if_field.png** - Interceptability Field heatmap showing player reachability
-5. **media_if_field_polished.png** - Polished IF field visualization with NFL field background
-6. **media_route_coverage_analysis.png** - WOO Peak by route type and coverage scheme
-7. **media_route_coverage_heatmap.png** - Route × Coverage interaction heatmap
-8. **media_route_coverage_extremes.png** - Best and worst route-coverage combinations
-9. **media_temporal_trends.png** - WOO metrics across early, mid, and late season
-10. **media_player_comparison.png** - Player-level analysis showing top defenders by IF Delta
+1. **visualizations/media_woo_timeseries.png** - WOO evolution over time for example plays
+2. **visualizations/media_woo_distribution.png** - Distribution of WOO Peak values across all plays
+3. **visualizations/media_woo_by_outcome.png** - WOO metrics grouped by pass outcome (Completion/Incomplete/Interception)
+4. **visualizations/media_if_field.png** - Interceptability Field heatmap showing player reachability
+5. **visualizations/media_if_field_polished.png** - Polished IF field visualization with NFL field background
+6. **visualizations/media_route_coverage_analysis.png** - WOO Peak by route type and coverage scheme
+7. **visualizations/media_route_coverage_heatmap.png** - Route × Coverage interaction heatmap
+8. **visualizations/media_route_coverage_extremes.png** - Best and worst route-coverage combinations
+9. **visualizations/media_temporal_trends.png** - WOO metrics across early, mid, and late season
+10. **visualizations/media_player_comparison.png** - Player-level analysis showing top defenders by IF Delta
 
 These visualizations demonstrate the framework's capabilities and key findings from the analysis of 180 plays across 18 weeks.
 
